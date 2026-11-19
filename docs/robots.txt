@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://augustine-odibo.github.io/pharmQ/sitemap.xml
